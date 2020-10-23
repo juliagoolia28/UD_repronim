@@ -1,3 +1,15 @@
+# Heudiconv Tutorial
+
+## Resources:
+[The main documentation for the Heudiconv Tutorial](https://neuroimaging-core-docs.readthedocs.io/en/latest/pages/heudiconv.html)
+
+[James Kent created a fantstic step-by-step video that the current tutorial was adapted from](https://www.youtube.com/watch?v=O1kZAuR7E00)
+
+[Why use BIDS/What is BIDS? An inspiring talk by Sam Nastase](https://docs.google.com/presentation/d/11MeS72TRLTiEwX4EbjWj84IFCTAmMJIawZF3VCLWLjA/edit#slide=id.g89c2127f6e_0_478)
+
+## Creating a Heuristic File
+A little background: Your MRI scan produces study specific information that you need to create a "cheat sheet" for. We call this "cheat sheet" a heuristics file. Basically, you will run a dry pass heudiconv on one subject to get this information. Then, you pull numbers from them to create your heuristic of the number of sessions, runs, localizers, T1s, etc. that your subject has. 
+
 Ensure Docker is installed prior to beginning heudiconv.
 1. ```docker pull nipy/heudiconv```
 2. Edit create_heuristic.sh file

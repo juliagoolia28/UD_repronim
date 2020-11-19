@@ -6,4 +6,4 @@ Towards this goal, the [ReproNim Fellowship Program](https://www.repronim.org/fe
 
 The current workshop series, UD ReproNim, is a product of this ReproNim Fellowship Program, and as such, draws heavily from existing open-source materials in the neuroimaging community to foster growth and knowledge of existing, reproducible computational technologies, pipelines/workflows, data wrangling approaches and statistical toolboxes. 
 
-The Fellows who organized this workshop, Drs. Jennifer Legault and Julie Schneider, thank those who have come before them to establish and share the resources included in the current repo. 
+The Fellows who organized this workshop, Drs. Jennifer Legault and [Julie Schneider](https://sites.udel.edu/jmschneider/), thank those who have come before them to establish and share the resources included in the current repo. 

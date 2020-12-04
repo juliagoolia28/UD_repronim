@@ -14,3 +14,7 @@ This workshop will rely heavily on the use of Terminal -- therefore, working kno
 
 You will also need to have some things installed prior to our first workshop:
 - [pip](https://pip.pypa.io/en/stable/reference/pip_install/)
+
+If you are using lab data, working on a lab server, or setting up these pipelines for your lab computers:
+- Be able to [VPN](https://udeploy.udel.edu/software/anyconnect-vpn/) onto the UD network
+- Need to have setup [Google Authentication](https://services.udel.edu/TDClient/32/Portal/KB/ArticleDet?ID=4) to VPN/Remotely connect to lab computers

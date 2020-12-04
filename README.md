@@ -8,6 +8,9 @@ The current workshop series, UD ReproNim, is a product of this ReproNim Fellowsh
 
 The Fellows who organized this workshop, Drs. Jennifer Legault and [Julie Schneider](https://sites.udel.edu/jmschneider/), thank those who have come before them to establish and share the resources included in the current repo. 
 
+## Resources
+[The missing semester](https://missing.csail.mit.edu/)
+
 ## Requirements
 
 This workshop will rely heavily on the use of Terminal -- therefore, working knowledge of how to use a Shell is necessary. You don't need to be a professional, but being able to cd in and out of directories with confidence will benefit you greatly! To help you get started, we have provided some resources for [Bash/Shell scripting](https://github.com/juliagoolia28/UD_repronim/tree/master/bash_unix_resources).

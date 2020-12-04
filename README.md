@@ -10,6 +10,7 @@ The Fellows who organized this workshop, Drs. Jennifer Legault and [Julie Schnei
 
 ## Resources
 [The missing semester](https://missing.csail.mit.edu/)
+
 [ReproNim Training Modules](https://www.repronim.org/teach.html)
 
 ## Requirements

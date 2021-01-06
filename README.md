@@ -40,10 +40,10 @@ This schedule and its contents are subject to change.
 | March 1  | Heudiconv + BIDS Formatting                                           |
 | March 8  | BIDS Formatting/Intro fMRIprep                                        |
 | March 15 | fMRIprep continued                                                    |
-| March 22 | Freesurfer Introduction to sMRI data Qoala-T                          |
+| March 22 | Freesurfer Introduction to sMRI outputs and using Qoala-T             |
 | March 29 | Spring Break                                                          |
 | April 5  | Freesurfer : Check and edit your sMRI data                            |
 | April 12 | Higher-Level Options                                                  |
-| April 19 | Cloud computing/parallel processing/big data?                         |
+| April 19 | fMRIprep pre-processing + versatility                                 |
 
 

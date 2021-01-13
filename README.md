@@ -34,14 +34,13 @@ This schedule and its contents are subject to change.
 
 | Week     | Content                                                               |
 | -------- | --------------------------------------------------------------------- |
-| Feb 8    | The Fear Factor: Why Reproducibility Matters & Reproducibility basics |
-| Feb 15   | Docker / Containers                                                   |
-| Feb 22   | Version control                                                       |
-| March 1  | Heudiconv + BIDS Formatting                                           |
-| March 8  | BIDS Formatting/Intro fMRIprep                                        |
-| March 15 | fMRIprep continued                                                    |
-| March 22 | Freesurfer Introduction to sMRI outputs and using Qoala-T             |
-| March 29 | Spring Break                                                          |
+| Feb 16   | The Fear Factor: Why Reproducibility Matters & Reproducibility basics |
+| Feb 23   | Docker / Containers                                                   |
+| March 2  | Version control                                                       |
+| March 9  | Heudiconv + BIDS Formatting                                           |
+| March 16 | BIDS Formatting/Intro fMRIprep                                        |
+| March 23 | fMRIprep continued                                                    |
+| March 30 | Freesurfer Introduction to sMRI outputs and using Qoala-T             |
 | April 5  | Freesurfer : Check and edit your sMRI data                            |
 | April 12 | Higher-Level Options                                                  |
 | April 19 | fMRIprep pre-processing + versatility                                 |

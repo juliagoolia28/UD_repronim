@@ -39,7 +39,7 @@ This schedule and its contents are subject to change.
 | March 2  | [Docker / Containers](https://github.com/juliagoolia28/UD_repronim/tree/master/container_tutorial)                                                   |
 | March 9  | [Intro to BIDS + Heudiconv](https://github.com/juliagoolia28/UD_repronim/blob/master/heudiconv_tutorial/README.md)                                           |
 | March 16 | [Heudiconv Continued](https://github.com/juliagoolia28/UD_repronim/blob/master/heudiconv_tutorial/README.md)                                   |
-| March 23 | BIDS Vlidator & Intro fMRIprep                                                     |
+| March 23 | BIDS Validator & Intro fMRIprep                                                     |
 | March 30 | Freesurfer Introduction to sMRI outputs and using Qoala-T             |
 | April 5  | Freesurfer : Check and edit your sMRI data                            |
 | April 12 | fMRIprep pre-processing + versatility                                                   |

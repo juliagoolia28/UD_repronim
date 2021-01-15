@@ -35,14 +35,13 @@ This schedule and its contents are subject to change.
 | Week     | Content                                                               |
 | -------- | --------------------------------------------------------------------- |
 | Feb 16   | The Fear Factor: Why Reproducibility Matters & Reproducibility basics |
-| Feb 23   | [Docker / Containers](https://github.com/juliagoolia28/UD_repronim/tree/master/container_tutorial)                                                   |
-| March 2  | [Version control](https://github.com/juliagoolia28/UD_repronim/tree/master/version_control_tutorial)                                                       |
-| March 9  | [Heudiconv + BIDS Formatting](https://github.com/juliagoolia28/UD_repronim/blob/master/heudiconv_tutorial/README.md)                                           |
-| March 16 | BIDS Formatting/Intro fMRIprep                                        |
-| March 23 | fMRIprep continued                                                    |
+| Feb 23   | [Version control](https://github.com/juliagoolia28/UD_repronim/tree/master/version_control_tutorial)                                                       |
+| March 2  | [Docker / Containers](https://github.com/juliagoolia28/UD_repronim/tree/master/container_tutorial)                                                   |
+| March 9  | [Intro to BIDS + Heudiconv](https://github.com/juliagoolia28/UD_repronim/blob/master/heudiconv_tutorial/README.md)                                           |
+| March 16 | [Heudiconv Continued](https://github.com/juliagoolia28/UD_repronim/blob/master/heudiconv_tutorial/README.md)                                   |
+| March 23 | BIDS Formatting/Intro fMRIprep                                                     |
 | March 30 | Freesurfer Introduction to sMRI outputs and using Qoala-T             |
 | April 5  | Freesurfer : Check and edit your sMRI data                            |
-| April 12 | Higher-Level Options                                                  |
-| April 19 | fMRIprep pre-processing + versatility                                 |
+| April 12 | fMRIprep pre-processing + versatility                                                   |
 
 

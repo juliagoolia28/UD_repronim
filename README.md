@@ -36,7 +36,7 @@ This schedule and its contents are subject to change.
 | -------- | --------------------------------------------------------------------- |
 | Feb 16   | The Fear Factor: Why Reproducibility Matters & Reproducibility basics |
 | Feb 23   | [Docker / Containers](https://github.com/juliagoolia28/UD_repronim/tree/master/container_tutorial)                                                   |
-| March 2  | Version control                                                       |
+| March 2  | [Version control](https://github.com/juliagoolia28/UD_repronim/tree/master/version_control_tutorial)                                                       |
 | March 9  | Heudiconv + BIDS Formatting                                           |
 | March 16 | BIDS Formatting/Intro fMRIprep                                        |
 | March 23 | fMRIprep continued                                                    |

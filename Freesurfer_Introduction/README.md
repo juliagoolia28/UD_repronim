@@ -1,11 +1,10 @@
 # Before using this tutorial
 
-Make sure you've watched the tutorial video by Dr. Legault that overviews Freesurfer outputs and follow along with tutorial demonstration in video. The PDF for this presentation can be found in this folder.
+Make sure you've watched the [tutorial video](https://drive.google.com/drive/folders/1CY491xWqltSzk9oT_EuBX3wmWO-k1REo?usp=sharing) by Dr. Legault that overviews Freesurfer outputs and follow along with tutorial demonstration in video. The PDF for this presentation can be found in this folder.
 
 # Using Qoala-T to help with quality control of Freesurfer reconstructed files
 
-After Freesurfer reconstruction, we should always make sure the files were properly reconstructed, especially for child populations.  This is because children tend to move a lot and
-their brains are more difficult to model due to high developmental variations between children.  
+After Freesurfer reconstruction, we should always make sure the files were properly reconstructed, especially for child populations.  This is because children tend to move a lot and their brains are more difficult to model due to high developmental variations between children.  
 Therefore, we will use Qoala-T to help us decide which subject files to include, exclude, and/or fix.
 
 ## What is Qoala-T?

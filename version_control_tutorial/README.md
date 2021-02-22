@@ -1,6 +1,8 @@
 # Version Control
 [Much of the following information was pulled from The Github Handbook](https://guides.github.com/introduction/git-handbook/)
 
+[Tutorial Intro Video](https://www.youtube.com/watch?v=3RjQznt-8kE)
+
 A version control system, or VCS, tracks the history of changes as people and teams collaborate on projects together. As the project evolves, teams can run tests, fix bugs, and contribute new code with the confidence that any version can be recovered at any time. Developers can review project history to find out:
 
 Which changes were made?

@@ -5,7 +5,12 @@
 
 [Nipype Workshop about Containers](http://nipy.org/workshops/2017-03-boston/lectures/lesson-container/#34)
 
-[ReporNim Resource for creating reproducible Environments](http://www.repronim.org/module-dataprocessing/04-containers/)
+[ReproNim Resource for creating reproducible Environments](http://www.repronim.org/module-dataprocessing/04-containers/)
+
+### Resources and recording from workshop
+[Tom Shaw + Steffan Bollman present Containers](https://drive.google.com/file/d/1H_sbsB7R-iWyrd3eUbxsBR0vB8dj6hhO/view?usp=sharing)
+
+[Zoom Recording of Docker Workshop](https://drive.google.com/drive/folders/1wIoUhIonIguL-jhp7SKOYAitvfo-Pm5Y?usp=sharing)
 
 ## Requirements:
 [Docker](https://www.docker.com/)

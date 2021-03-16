@@ -27,10 +27,11 @@
 5. Check output within BIDS folder ```ls -a```
     - Make sure you are within your BIDS directory
     - You should see a .heudiconv file
-6. Create a subdirectory under the output directory and call it code: ```mkdir code```
-7. Add the convertall.py script (stored in this folder) to this folder
-8. CD into .heudiconv/{subject}/info and open the dicominfo.tsv file.
-9. Edit your convertall.py script using this dicominfo.tsv file as a guide.
+    - Continue to cd through this directory into the "info" directory
+    - for example: /UD_repronim/heudiconv_tutorial/BIDS/.heudiconv/sub_01/info
+6. Open the dicominfo.tsv file from this folder 
+7. Move the heuristic.py script (stored in this folder) out to your main BIDS directory
+8. Edit your heuristic.py script using this dicominfo.tsv file as a guide.
 
 ## Now you are ready to convert dicoms to BIDS formatted nifti files
 ### You will repeat the below steps for every new participant

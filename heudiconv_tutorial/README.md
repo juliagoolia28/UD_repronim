@@ -4,7 +4,7 @@
 [The main documentation for the Heudiconv Tutorial](https://neuroimaging-core-docs.readthedocs.io/en/latest/pages/heudiconv.html)
 
 ## Resources and Recording from Workshop
-[Recording from Workshop: Part 1](https://drive.google.com/drive/folders/1zz4GXVpY8OgJxFDIf6QxUmOJNgNsY2l1?usp=sharing)
+[Recording from Workshop: Part 1 & 2](https://drive.google.com/drive/folders/1zz4GXVpY8OgJxFDIf6QxUmOJNgNsY2l1?usp=sharing)
 
 [James Kent created a fantastic step-by-step video that the current tutorial was adapted from](https://www.youtube.com/watch?v=O1kZAuR7E00)
 

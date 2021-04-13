@@ -38,7 +38,7 @@ An important aspect of responsible science is checking your data.  FMRIPrep make
 
 ### 4. Optional Additional Preprocessing: Smoothing and Scaling
 While some researchers are used to smoothing and scaling their data, FMRIPrep does not automatically run these steps, since they are more of an individual / judgement call.  If you would like to run these additional steps, you can watch the video below.  The corresponding brain book chapter is [here](https://andysbrainbook.readthedocs.io/en/latest/OpenScience/OS/fMRIPrep_Demo_4_AdditionalPreproc.html).   
-https://www.youtube.com/watch?v=lA9ZUefF3Po&list=PLIQIswOrUH6_szyxn9Fy-2cxd3vjlklde&index=4
+[![](http://img.youtube.com/vi/lA9ZUefF3Po/0.jpg)](http://www.youtube.com/watch?v=lA9ZUefF3Po "")
 
 ### 5. 1st-Level Analysis
 This video overviews how to do a general linear model analysis on a single participant and visualize these results using AFNI viewer.  This step must be completed before you run the group analysis.  The corresponding brain book chapter can be found [here](https://andysbrainbook.readthedocs.io/en/latest/OpenScience/OS/fMRIPrep_Demo_5_1stLevelAnalysis.html).

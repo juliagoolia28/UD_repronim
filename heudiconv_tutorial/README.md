@@ -17,7 +17,7 @@
 ### You will repeat the below steps once. This will allow you to create a heuristics file that you will use for all participants moving forward.
 **A little background:** Your MRI scan produces study specific information that you need to create a "cheat sheet" for. We call this "cheat sheet" a heuristics file. Basically, you will run a dry pass heudiconv on one subject to get this information. Then, you pull numbers from them to create your heuristic of the number of sessions, runs, localizers, T1s, etc. that your subject has. 
 
-1. ```docker pull nipy/heudiconv```
+1. ```docker pull nipy/heudiconv``` or install [heudiconv](https://heudiconv.readthedocs.io/en/latest/installation.html)
 3. Now we are going to run a dry pass on our dicoms to create a heuristic file:
     - Edit create_heuristic.sh file ```nano create_heuristic.sh```
     - Line 2: change path where DICOM data is located
